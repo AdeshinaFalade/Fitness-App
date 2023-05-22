@@ -9,7 +9,6 @@ class HttpHelper{
     Uri uri = Uri.https(authority, path, parameters);
     http.Response result = await http.get(uri);
     Map<String, dynamic> data = jsonDecode(result.body);
-    //print(result.body);
     Weather weather = Weather.fromJson(data);
     return weather;
   }
