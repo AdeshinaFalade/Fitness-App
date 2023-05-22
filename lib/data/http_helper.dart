@@ -4,7 +4,9 @@ import 'dart:convert';
 import '../shared/constants.dart';
 
 class HttpHelper{
-
+  final String apiKey = 'ced5e6c2b4bb9435f9fb35c240eaeecb';
+  final String authority = 'api.openweathermap.org';
+  final String path = 'data/2.5/weather';
   Future<Weather> getWeather(String location) async{
     Map<String, dynamic> parameters = {'q': location,'appId': apiKey};
     Uri uri = Uri.https(authority, path, parameters);
