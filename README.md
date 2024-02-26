@@ -1,3 +1,9 @@
+![Media (7)](https://github.com/AdeshinaFalade/Fitness-App/assets/84288086/7b62b3e9-b10c-4122-908f-2cb7424e7f05)
+![Media (6)](https://github.com/AdeshinaFalade/Fitness-App/assets/84288086/01e8304a-c858-4292-b7b5-c871b8292bcb)
+![Media (5)](https://github.com/AdeshinaFalade/Fitness-App/assets/84288086/5d8edb8d-6727-4e74-9f51-e087cafcaabb)
+![Media (4)](https://github.com/AdeshinaFalade/Fitness-App/assets/84288086/720021c0-3244-4b2e-9b7a-f8eab0e0030b)
+
+
 # flutter_practice
 
 A new Flutter project.
